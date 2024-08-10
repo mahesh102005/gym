@@ -1,0 +1,52 @@
+*{
+    /* padding: 0px;
+    margin: 0px; */
+    font-family: sans-serif;
+}
+body{
+    background: url(pic/kkk.jpg);
+    
+    color: #fff;
+}
+.StartYourChallenge{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+   height: 1px;
+}
+.StartYourChallenge h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0px;
+}
+.StartYourChallenge p{
+    font-size: 20px;
+    margin: 15px 0px;
+}
+.in{
+ font-size: 16px;
+ padding: 15px 10px;
+ width: 100%;
+ border: 0px;
+ border-radius: 5px;
+ outline: none;
+
+}
+.StartYourChallenge button{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0px;
+    padding: 10px 15px;
+    width: 250px;
+    height: 60px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.StartYourChallenge button:hover{
+    background-color: #f9c80e;
+    color: #fff;
+}
